@@ -1,4 +1,4 @@
-# tribute-page-HCI
+# Tribute-Page-HCI
 
 <p> This is Alysha and Kimberly's tribute page to Ariana Grande.</br>
   The CSS is inline and internal so there is no external CSS file.
